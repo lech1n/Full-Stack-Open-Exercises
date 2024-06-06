@@ -1,0 +1,15 @@
+.error{
+    padding: 1rem;
+    width: 100%;
+    border: 3px solid red;
+    color: red;
+    background-color: rgb(246, 240, 240);
+}
+
+.success{
+    padding: 1rem;
+    width: 100%;
+    border: 3px solid green;
+    color: green;
+    background-color: rgb(246, 240, 240);
+}
